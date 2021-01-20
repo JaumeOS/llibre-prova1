@@ -1,0 +1,6 @@
+Capitol 1: Introducció a Git
+Capitol 2: Flus de treball bàsic
+Capitol 3: Repositoris remots
+Capitol 1: Introducció a Git
+Capitol 2: Flus de treball bàsic
+Capitol 3: Repositoris remots
